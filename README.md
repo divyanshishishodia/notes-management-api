@@ -22,7 +22,7 @@ POST /register
 POST /login  
 POST /notes  
 GET /notes  
-DELETE /notes/:id  
+DELETE /notes/:id 
 
 ## Testing
 APIs were tested using Postman.
